@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "selectfix",
+    "Description": "Plugin to fix the origin point for backwards mouse selections.",
+    "Tags": ["selection"],
+    "Versions": [
+      {
+        "Version": "1.0.0"
+      }
+    ]
+  }
+]
