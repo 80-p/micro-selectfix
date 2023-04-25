@@ -1,11 +1,12 @@
 [
   {
     "Name": "selectfix",
-    "Description": "Plugin to fix the origin point for backwards mouse selections.",
+    "Description": "Plugin to fix the behavior of selections.",
     "Tags": ["selection"],
     "Versions": [
       {
-        "Version": "1.0.0"
+        "Version": "1.0.0",
+        "Url": "https://github.com/80-p/micro-selectfix"
       }
     ]
   }
